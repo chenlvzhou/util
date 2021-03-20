@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cec7234c-13b8-4ab0-aac2-53b83f3b265d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/config/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/config/json/DateDeserialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/config/json/DateSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/config/json/DateTimeDeserialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/config/json/DateTimeSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/config/json/JsonVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/config/json/ObjectIdDeserialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/config/json/ObjectIdSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/enums/VoiceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/service/AuthSpeechService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/utils/AliSpeechSynthesizerUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/utils/AliyunUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/vo/Pager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/util/comutil/vo/Result.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1q1WxLG9wUY6MLLJgJQ6DdvwnVf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showURL" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/util/comutil/config" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.util.comutil.enums" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/util/comutil/config" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/util/comutil/utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ComUtilApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="util" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.util.comutil.ComUtilApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cec7234c-13b8-4ab0-aac2-53b83f3b265d" name="Default Changelist" comment="" />
+      <created>1616247821045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616247821045</updated>
+      <workItem from="1616247823045" duration="3543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1370" height="187" key="GridCell.Tab.0.bottom" timestamp="1616251376792">
+      <screen x="67" y="23" width="1373" height="877" />
+    </state>
+    <state width="1370" height="187" key="GridCell.Tab.0.bottom/67.23.1373.877@67.23.1373.877" timestamp="1616251376792" />
+    <state width="1370" height="187" key="GridCell.Tab.0.center" timestamp="1616251376791">
+      <screen x="67" y="23" width="1373" height="877" />
+    </state>
+    <state width="1370" height="187" key="GridCell.Tab.0.center/67.23.1373.877@67.23.1373.877" timestamp="1616251376791" />
+    <state width="1370" height="187" key="GridCell.Tab.0.left" timestamp="1616251376791">
+      <screen x="67" y="23" width="1373" height="877" />
+    </state>
+    <state width="1370" height="187" key="GridCell.Tab.0.left/67.23.1373.877@67.23.1373.877" timestamp="1616251376791" />
+    <state width="1370" height="187" key="GridCell.Tab.0.right" timestamp="1616251376792">
+      <screen x="67" y="23" width="1373" height="877" />
+    </state>
+    <state width="1370" height="187" key="GridCell.Tab.0.right/67.23.1373.877@67.23.1373.877" timestamp="1616251376792" />
+    <state width="1370" height="187" key="GridCell.Tab.1.bottom" timestamp="1616251376793">
+      <screen x="67" y="23" width="1373" height="877" />
+    </state>
+    <state width="1370" height="187" key="GridCell.Tab.1.bottom/67.23.1373.877@67.23.1373.877" timestamp="1616251376793" />
+    <state width="1370" height="187" key="GridCell.Tab.1.center" timestamp="1616251376792">
+      <screen x="67" y="23" width="1373" height="877" />
+    </state>
+    <state width="1370" height="187" key="GridCell.Tab.1.center/67.23.1373.877@67.23.1373.877" timestamp="1616251376792" />
+    <state width="1370" height="187" key="GridCell.Tab.1.left" timestamp="1616251376792">
+      <screen x="67" y="23" width="1373" height="877" />
+    </state>
+    <state width="1370" height="187" key="GridCell.Tab.1.left/67.23.1373.877@67.23.1373.877" timestamp="1616251376792" />
+    <state width="1370" height="187" key="GridCell.Tab.1.right" timestamp="1616251376793">
+      <screen x="67" y="23" width="1373" height="877" />
+    </state>
+    <state width="1370" height="187" key="GridCell.Tab.1.right/67.23.1373.877@67.23.1373.877" timestamp="1616251376793" />
+  </component>
+</project>
